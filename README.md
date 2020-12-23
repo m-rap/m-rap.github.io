@@ -7,5 +7,7 @@
 ## socials
 
 :spaghetti: [twitch](https://www.twitch.tv/mrap1991)
+
 :fries: [youtube](https://www.youtube.com/user/mohammadrianap)
+
 :hamburger: [instagram](https://www.instagram.com/m_rap)
