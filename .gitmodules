@@ -1,0 +1,3 @@
+[submodule "savingstracker"]
+	path = savingstracker
+	url = git@github.com:m-rap/savingstracker.git
